@@ -23,9 +23,6 @@
 
 .footer__column-heading {
   margin: 0 0 20px;
-}
-
-.footer__social-heading {
   font-family: "Inter";
   font-style: normal;
   font-weight: bold;
@@ -39,6 +36,8 @@
   padding: 0;
   list-style-type: none;
   gap: 16px;
+  display: flex;
+  flex-direction: column;
 }
 
 .footer__social-icon {

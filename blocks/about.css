@@ -6,16 +6,15 @@
   margin: 0;
   position: relative;
   overflow: hidden;
+  padding: 119px 80px 173px;
   z-index: 0;
 }
 
 .about__title {
   margin: 0;
   max-width: 251px;
-  font-weight: 500px;
-  padding: 100px 80px 173px;
-  font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
+  font-family: "Inter", Arial, sans-serif;
   font-size: 44px;
   line-height: 52px;
 }
@@ -28,7 +27,6 @@
 
 .about__content {
   max-width: 660px;
-  padding: 119px 80px 173px;
   display: flex;
   flex-direction: column;
 }

@@ -20,7 +20,7 @@
   margin: 183px 0 0;
   letter-spacing: -0.6px;
   color: black;
-  font-family: "Inter";
+  font-family: "Inter", Arial, Sans-serif;
   font-weight: 500;
   z-index: 1;
 }
@@ -50,11 +50,11 @@
   justify-content: space-between;
   margin-top: auto;
   color: #6f6f6f;
+  align-items: flex-end;
 }
 
 .header__paragraph {
   margin: 0;
-  color: #6f6f6f;
 }
 
 .header__span-accent {
@@ -63,6 +63,4 @@
   font-family: "Noto Serif";
   font-style: italic;
   font-weight: normal;
-  font-size: 60px;
-  line-height: 72px;
 }
