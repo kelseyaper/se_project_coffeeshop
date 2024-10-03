@@ -20,15 +20,17 @@
 }
 
 .about__paragraph {
-  font-family: "Noto Serif", "Times New Roman", sans-serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
+  margin: 0;
 }
 
 .about__content {
   max-width: 660px;
   display: flex;
   flex-direction: column;
+  gap: 20px;
 }
 
 .about__circle {

@@ -31,7 +31,7 @@
   line-height: 30px;
   margin: 28px 0 0;
   color: black;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
 }
 
 .header__image {
@@ -60,7 +60,7 @@
 .header__span-accent {
   display: block;
   color: #2f80ed;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
   font-weight: normal;
 }
